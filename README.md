@@ -64,18 +64,6 @@ The dataset is based on the MIT-BIH Arrhythmia Database and contains annotated E
 
 ---
 
-## Repository Structure
-
-```bash
-├── ecg_cardiac_abnormality_detection.ipynb
-├── figures/
-├── results/
-├── README.md
-├── requirements.txt
-```
-
----
-
 ## Running the Project
 
 1. Install dependencies:
